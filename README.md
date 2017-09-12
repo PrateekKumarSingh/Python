@@ -1,5 +1,5 @@
 # Python
-My Python Learning journey
+My Python Learning journey [day-wise] in scripts
 
 ## Folder/Files listing
 ```
