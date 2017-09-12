@@ -1,0 +1,9 @@
+// A task runner that runs a python program
+{
+    "version": "0.1.0",
+    "command": "python",
+    "windows": {
+        "command": "C:\\Users\\prateekkumar.singh\\AppData\\Local\\Continuum\\Anaconda3\\python.exe"
+    },
+    "args": ["${file}"]
+}
