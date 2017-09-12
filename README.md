@@ -4,10 +4,17 @@ My Python Learning journey [day-wise] in scripts
 ## Folder/Files listing
 ```
 Root:
-│   Day1_Comments.py
-│   Day1_Math.py
-│   Day1_PrintFunction.py
-│   Day1_Variables.py
+│   10_Install_Modules.py
+│   11_Import_modules.py
+│   1_Print_Function.py
+│   2_Comment.py
+│   3_Math.py
+│   4_Variables.py
+│   5_While_Loop.py
+│   6_For_Loop.py
+│   7_If_Else.py
+│   8_Function.py
+│   9_Global_Local_Variable.py
 │   README.md
 │
 └───.vscode
