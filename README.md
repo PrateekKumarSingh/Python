@@ -3,7 +3,7 @@ My Python Learning journey [day-wise] in scripts
 
 ## Folder/Files listing
 ```
-Root:
+Root.
 │   1_Print_Function.py
 │   2_Comment.py
 │   3_Math.py
@@ -15,6 +15,10 @@ Root:
 │   9_Global_Local_Variable.py
 │   10_Install_Modules.py
 │   11_Import_modules.py
+│   12_Write_Append_Read_File.py
+│   13_Class.py
+│   14_User_Input.py
+│   15_Statistics_Module.py
 │   README.md
 │
 └───.vscode
