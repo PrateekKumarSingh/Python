@@ -4,8 +4,6 @@ My Python Learning journey [day-wise] in scripts
 ## Folder/Files listing
 ```
 Root:
-│   10_Install_Modules.py
-│   11_Import_modules.py
 │   1_Print_Function.py
 │   2_Comment.py
 │   3_Math.py
@@ -15,6 +13,8 @@ Root:
 │   7_If_Else.py
 │   8_Function.py
 │   9_Global_Local_Variable.py
+│   10_Install_Modules.py
+│   11_Import_modules.py
 │   README.md
 │
 └───.vscode
