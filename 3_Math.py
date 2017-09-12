@@ -8,4 +8,3 @@ print(8+11)  # prints mathemactical operation of 8 + 11
 print(int('8')+2)
 print(int('8')+int(7.454))
 print(int('8')+float(7.454))
-
