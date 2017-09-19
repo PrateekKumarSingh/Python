@@ -44,3 +44,5 @@ string = 'KJSDnkSRnfdNKJNfd'
 print('Sorted string:',sorted(string)) # you can sort strings as well with sorted() function
 print('Sorted string:',"".join(sorted(string)) ) # use the .join() function to join the characters of the string
 
+print('List:',list)
+print('Index of 23:',list.index(23))
