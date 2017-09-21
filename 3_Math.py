@@ -1,4 +1,5 @@
 print(4*4) # 4 multiplied by 4
+
 print(3/18) # 3 divided by 18
 print(18%7) # Modulus operation to return the remainder
 print(3**3) # 3 raise to the power 3

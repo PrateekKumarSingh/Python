@@ -3,7 +3,8 @@
     "version": "0.1.0",
     "command": "python",
     "windows": {
-        "command": "C:\\Users\\prate.LAPTOP\\Anaconda3\\python.exe"
+        //"command": "C:\\Users\\prate.LAPTOP\\Anaconda3\\python.exe"
+        "command": "C:\\Users\\prateekkumar.singh\\AppData\\Local\\Continuum\\Anaconda3\\python.exe"
     },
     "args": ["${file}"]
 }
