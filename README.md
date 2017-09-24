@@ -3,6 +3,7 @@ My [day-wise] Python Learning journey
 
 ## Resources
 Python 3 basics video series [[Video](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)]
+
 Python Language reference [[Link](https://docs.python.org/3/reference/)]
 ## Daily Log
 ### Day 1
@@ -48,7 +49,7 @@ Python Language reference [[Link](https://docs.python.org/3/reference/)]
 * Dowloading JSON data from a URL
 
 ## Folder/Files listing
-```
+```ss
 .Root
 |   01_Print_Function.py
 |   02_Comment.py
