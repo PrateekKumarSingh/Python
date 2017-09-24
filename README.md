@@ -1,5 +1,16 @@
 # Python
-My Python Learning journey [day-wise] in scripts
+My [day-wise] Python Learning journey
+
+# Resources
+Python 3 basics video series [[Video](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)]
+
+# Daily Log
+## Day 6
+* Basic URLLIB module usecases
+    - Requesting html response from a web url
+    - Encoding the url parameters    
+* Sending web requests using URLLIB module with custom headers
+* Dowloading JSON data from a URL
 
 ## Folder/Files listing
 ```
@@ -27,8 +38,11 @@ My Python Learning journey [day-wise] in scripts
 |   21_Multiline_print.py
 |   22_Dictionaries.py
 |   23_Builtin_Functions.py
-|   24_Using_OS_Module.py
-|   25_Using_System_Module.py
+|   24_OS_Module.py
+|   25_SYS_Module.py
+|   26_URLLIB_Module_Basic.py
+|   27_URLLIB_Module_Custom_Headers.py
+|   28_URLLIB_Module_with_JSON.py
 |   README.md
 |   
 +---.vscode
@@ -37,10 +51,7 @@ My Python Learning journey [day-wise] in scripts
 |       
 +---SampleFiles
 |       example.csv
-
+|       RequestWithHeader.txt
+|       
         
-
-        
-
-
 ```        
