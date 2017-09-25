@@ -7,7 +7,7 @@ Python language reference [[Link](https://docs.python.org/3/reference/)]
 Python cheat sheets [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]
 Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]
 ## Daily Log
-_### Day 1
+### Day 1
 * Print function
 * Comments
 * Math module and mathematical operations
@@ -52,9 +52,9 @@ _### Day 1
 * Regular expressions
     - Identifiers \d \D \w \W etc
     - Modifiers + $ ^ etc
-    - Functions .findall() , .search() _
+    - Functions .findall() , .search() 
 ## Folder/Files listing
-```ss
+```
 .Root
 |   01_Print_Function.py
 |   02_Comment.py
