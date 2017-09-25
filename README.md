@@ -7,7 +7,7 @@ Python language reference [[Link](https://docs.python.org/3/reference/)]
 Python cheat sheets [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]
 Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]
 ## Daily Log
-### Day 1
+_### Day 1
 * Print function
 * Comments
 * Math module and mathematical operations
@@ -48,7 +48,11 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     - Encoding the url parameters    
 * Sending web requests using URLLIB module with custom headers
 * Dowloading JSON data from a URL
-
+### Day 7
+* Regular expressions
+    - Identifiers \d \D \w \W etc
+    - Modifiers + $ ^ etc
+    - Functions .findall() , .search() _
 ## Folder/Files listing
 ```ss
 .Root
