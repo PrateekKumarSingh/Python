@@ -22,3 +22,14 @@ print('\nDateOfBirth dictionary:',DateOfBirth)
 print("Prateek's DOB:",DateOfBirth['Prateek'])
 
 print('Mayank was born in month:',DateOfBirth['Mayank'][1])
+
+
+
+squares = {} # empty dictionary
+for x in range(1,10):
+    squares[x] = x**2
+
+#print(squares.items())
+
+for key, value in squares.items() : # Dictionary.items() gives key-value sets which can be enumerated.
+    print("Square of {0} is {1}".format(key, value))

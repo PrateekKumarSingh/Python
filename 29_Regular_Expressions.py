@@ -56,11 +56,12 @@ print('Names:', names)
 
 
 words = re.split(r'\s',stringdata) #.split(pattern, string) to slplit th 'string' by the 'pattern'
+print('Filter:',filter(lambda x: len(x)>0, words))
 print('All words:',words)
 
 threeletterwords=[] # empty list
 for each in words:
-    match = re.search(r'[a-z]{3}', each) # search for 3 letter words
+    match = re.search(r'^(\w{3})$', each) # search for 3 letter words
     if match:
         threeletterwords.append(match.group(0)) # adding items that are 3 lettered to the list
 
