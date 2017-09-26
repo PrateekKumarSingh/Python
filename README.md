@@ -73,7 +73,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     4. UseCase-3 : list flattening - convert a 2D list to 1D list
 * String manipulations
     1. Slicing a string
-    2. .splt() and .join()
+    2. .split() and .join()
     3. reversed()
     4. .strip() , .lstrip() , .rstrip()
     5. .rjust() .ljust(), .center()
