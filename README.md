@@ -2,10 +2,10 @@
 My [day-wise] Python Learning journey
 
 ## Resources
-Python 3 basics video series [[Video](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)]
-Python language reference [[Link](https://docs.python.org/3/reference/)]
-Python cheat sheets [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]
-Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]
+Python 3 basics video series [[Video](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)]  
+Python language reference [[Link](https://docs.python.org/3/reference/)]  
+Python cheat sheets [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]  
+Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]  
 ## Daily Log
 ### Day 1
 * Print function
