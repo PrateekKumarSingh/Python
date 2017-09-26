@@ -7,7 +7,7 @@ Python language reference [[Link](https://docs.python.org/3/reference/)]
 Python cheat sheets [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]
 Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]
 ## Daily Log
-_### Day 1
+### Day 1
 * Print function
 * Comments
 * Math module and mathematical operations
