@@ -64,11 +64,6 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 
 ### Day 7
 * Regular expressions
-<<<<<<< HEAD
-    - Identifiers \d \D \w \W etc
-    - Modifiers + $ ^ etc
-    - Functions .findall() , .search() 
-=======
     1. Identifiers \d \D \w \W etc
     2. Modifiers + $ ^ etc
     3. Functions .findall() , .search() _
@@ -88,7 +83,6 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     6. UseCase - Printing data in tabular format using .center()
 
 
->>>>>>> cedcb2057046bc3616e274b840b8d88a69211fce
 ## Folder/Files listing
 ```
 .Root
