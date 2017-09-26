@@ -11,10 +11,6 @@ Python cheat sheets [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]
 Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]  
 
 ## Daily Log
-<<<<<<< HEAD
-=======
-
->>>>>>> cedcb2057046bc3616e274b840b8d88a69211fce
 ### Day 1
 * Print function
 * Comments
