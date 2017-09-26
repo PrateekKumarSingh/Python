@@ -1,3 +1,4 @@
+# a dice rolling simulator
 import random, sys
 while True:
     choice = input("Do you want roll the dice? [Y/N] ")
