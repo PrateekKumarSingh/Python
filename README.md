@@ -1,23 +1,26 @@
-## Python
+### Python
 My [day-wise] Python Learning journey
 
-## Resources
-Python 3 basics video series [[Video](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)]  
+### Resources
+Python 3 basics video series [[Video](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)] 
+
 Python language reference [[Link](https://docs.python.org/3/reference/)]  
+
 Python cheat sheets [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]  
+
 Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]  
-## Daily Log
-### Day 1
+### Daily Log
+#### Day 1
 * Print function
 * Comments
 * Math module and mathematical operations
 * Loop - For, While
 * if, else, elif
-### Day 2
+#### Day 2
 * Functions
 * Global and Local Variables
 * Install Modules
-### Day 3
+#### Day 3
 * Importing modules
 * Read, write, append files
 * Class
@@ -29,31 +32,31 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 * Multi-Dimensional List
 * Reading CSV files
 * Try and Except
-### Day 4
+#### Day 4
 * Multiline print
 * Dictionaries
     1. Create, delete and nested with lists
 * Using Builtin functions
     1. Format(), int(), float(), round(), floor(), ceil()
-### Day 5
+#### Day 5
 * OS module
     1. Current working directory, new, remove directory and renaming files
 * Sys Module
     1. Passing cmdline arguments
     2. Stderr, stdout 
     3. System-specific parameters and functions
-### Day 6
+#### Day 6
 * Basic URLLIB module usecases
     1. Requesting html response from a web url
     2. Encoding the url parameters    
 * Sending web requests using URLLIB module with custom headers
 * Dowloading JSON data from a URL
-### Day 7
+#### Day 7
 * Regular expressions
     1. Identifiers \d \D \w \W etc
     2. Modifiers + $ ^ etc
     3. Functions .findall() , .search() _
-### Day 8
+#### Day 8
 * List comprehensions and usecases
     1. Example of regular and list comprehension approach
     2. UseCase-1 : performing operations on each item in the list
@@ -67,7 +70,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     5. .rjust() .ljust(), .center()
     6. UseCase - Printing data in tabular format using .center()
 
-## Folder/Files listing
+### Folder/Files listing
 ```ss
 .Root
 |   01_Print_Function.py
