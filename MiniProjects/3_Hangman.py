@@ -90,3 +90,6 @@ for i in range(0,3):
         sys.exit()
     else:
         print(attempt[i])
+
+    if i==2:
+        print("The correct word is {0}".format(''.join(word)))
