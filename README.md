@@ -78,6 +78,11 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     5. .rjust() .ljust(), .center()
     6. UseCase - Printing data in tabular format using .center()
 
+### Day 9 
+* MINI PROJECTS
+    1. Dice Roll Simulator
+    2. Guess the Number
+    3. Hangman - Word guessing game
 
 ## Folder/Files listing
 ```
