@@ -84,6 +84,18 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     2. Guess the Number
     3. Hangman - Word guessing game
 
+### Day 10
+* Parsing websites
+    1. Extracting data from withing the HTML tags of websites using reglar expression and web request
+
+* TKinter module to make windows forms
+    1. Basic form with labels and buttons
+    2. Button onclick event handling
+    3. Change label text dynamically
+
+* MINI PROJECT
+    4. Calclator GUI (Using Tkinter module)
+
 ## Folder/Files listing
 ```
 .Root
@@ -118,15 +130,24 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   29_Regular_Expressions.py
 |   30_List_Comprehensions.py
 |   31_String_Manipulations.py
+|   32_Parsing_Websites.py
+|   33_TKINTER_Module.py
 |   README.md
-|   
+|
 +---.vscode
 |       launch.json
 |       tasks.json
-|       
+|
++---MiniProjects
+|       1_Dice_Roll_Simulator.py
+|       2_Guess_The_Number.py
+|       3_Hangman.py
+|       4_Calculator_GUI.py
+|       readme.md
+|
 +---SampleFiles
 |       example.csv
-|       RequestWithHeader.txt
-|       
+|       RequestWithHeader.txt   
+       
         
 ```        
