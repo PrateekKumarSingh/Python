@@ -96,6 +96,19 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 * MINI PROJECT
     4. Calclator GUI (Using Tkinter module)
 
+### Day 11
+* Tkinter module to create MENU in windows forms
+* Add drop down menu items under each menu
+* Add functionalities to drop down menu items
+    1. File > Save [Opens a File Dialog box to save the file]
+    2. File > Exit
+    3. Tools > Show Image
+    4. Tools > Show Text
+* Threading Module
+    1. Creating a thread
+    2. Thread lock()    
+    3. Queue
+
 ## Folder/Files listing
 ```
 .Root
@@ -132,6 +145,8 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   31_String_Manipulations.py
 |   32_Parsing_Websites.py
 |   33_TKINTER_Module.py
+|   34_TKINTER_Add_Menu.py
+|   35_Threading_Module.py
 |   README.md
 |
 +---.vscode
