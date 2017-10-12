@@ -13,3 +13,12 @@ calc.add(3,2)
 calc.sub(3,2)        
 calc.mul(3,2)        
 calc.div(3,2)        
+
+
+class dog:
+    def __init__(self, legs, color):
+        self.legs = legs
+        self.color = color
+
+beagle = dog(4, 'brown')
+print(beagle.color)

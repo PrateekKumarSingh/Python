@@ -12,9 +12,9 @@ def threader():
             print(threading.current_thread().name, worker)
         q.task_done() # indication that task was complete
 
-q = Queue() # create a queue 
+q = Queue() # create a queue. The Queue module allows you to create a new queue object that can hold a specific number of items.
 
-for x in range(10):
+for x in range(10): 
     t = threading.Thread(target=threader) # defining the thread and its target
     t.daemon = True # 
     t.start() # start the thread
