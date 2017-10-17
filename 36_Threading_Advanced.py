@@ -19,7 +19,7 @@ import time
 exitflag = 0
 
 # Overriding the parent class: 'threading.thread' to create a subclass 'mythread'
-class mythread (threading.Thread):  
+class mythread (threading.Thread):
     def __init__(self, threadID, name, counter): # __init__() is the constructor to initialize the values
         threading.Thread.__init__(self)
         self.threadID = threadID
@@ -28,9 +28,11 @@ class mythread (threading.Thread):
     # to specify the activity the thread performs there are two ways
     # 1. overriding run() method of parent class: 'threading.thread' to define the activity
     # 2. pass a callable object to the constructor of 'threading.thread' class, like - threading.Thread(target=threader)
-    def run(self): 
+    def run(self):
         print('Starting ',self.name)
+        threadLock.acquire()  # get lock to synchronize threads
         job(self.name, self.counter, 5)
+        threadLock.release() # free lock to release next thread
         print('Exiting ',self.name)
 
 # the actual job that the thread executes
@@ -42,13 +44,17 @@ def job(threadname, delay, counter):
         print("{0}: {1}".format(threadname, time.ctime(time.time())))
         counter -=1
 
+threadLock = threading.Lock()
+threads = []
+
 # create new threads
-thread1 = mythread(1, 'Thread-1', 1)        
+thread1 = mythread(1, 'Thread-1', 1)
 thread2 = mythread(2, 'Thread-2', 2)
 
 # start new threads
 thread1.start()
 thread2.start()
+
 thread1.join() # waits until the thread terminates
 thread1.join() # waits until the thread terminates
 

@@ -106,8 +106,20 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     4. Tools > Show Text
 * Threading Module
     1. Creating a thread
-    2. Thread lock()    
+    2. Thread lock() , acquire() , release()  
     3. Queue
+    
+### Day 12
+* CX Freeze module
+    1. Define setup files
+    2. Build executables (.exe) from Python scripts
+* MatPlotLib module
+    1. Loading coordinates from a csv file
+    2. Plotting graph
+    3. Scatter graph
+    4. Bar graph
+    5. Defining title, label, grid and legends
+    6. Styling graphs
 
 ## Folder/Files listing
 ```
@@ -147,6 +159,9 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   33_TKINTER_Module.py
 |   34_TKINTER_Add_Menu.py
 |   35_Threading_Module.py
+|   36_Threading_Advanced.py
+|   37_CX_Freeze_and_Making_Exes.py
+|   38_MatPlotLib_Module.py
 |   README.md
 |
 +---.vscode
@@ -161,7 +176,10 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |       readme.md
 |
 +---SampleFiles
+|       coordinates1.csv
+|       coordinates2.csv
 |       example.csv
+|       GetHREF.py
 |       RequestWithHeader.txt   
        
         
