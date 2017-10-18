@@ -121,6 +121,15 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     5. Defining title, label, grid and legends
     6. Styling graphs
 
+### Day 13
+* Socket programming
+    1. socket module
+    2. socket.AF_INET (Address Family = IPv4)
+    3. socket.SOCK_STREAM (Protocol = TCP) | socket.SOCK_DGRAM (Protocol = UDP) 
+* Multi-threaded port scanner using socket programming
+* Listen\Bind ports
+* Client\Server system using socket programming
+
 ## Folder/Files listing
 ```
 .Root
@@ -162,6 +171,10 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   36_Threading_Advanced.py
 |   37_CX_Freeze_and_Making_Exes.py
 |   38_MatPlotLib_Module.py
+|   39_Sockets_Programming.py
+|   40_Multithreaded_Port_Scanner.py
+|   41_Listen_And_Bind_Ports.py
+|   42_Client_Server_Systems_With_Sockets.py
 |   README.md
 |
 +---.vscode
