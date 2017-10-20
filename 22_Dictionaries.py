@@ -20,6 +20,7 @@ print('Dictionary:',NameAge)
 DateOfBirth = {'Prateek':[1,'May',1990], 'Mayank':[12,'Feb',1992], 'Utkarsh':[10,'Oct',1995]}
 print('\nDateOfBirth dictionary:',DateOfBirth)
 print("Prateek's DOB:",DateOfBirth['Prateek'])
+print('len of DOB dictionary:',len(DateOfBirth))
 
 print('Mayank was born in month:',DateOfBirth['Mayank'][1])
 
