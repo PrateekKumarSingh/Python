@@ -136,7 +136,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 
     5. Chat System using Socket Programming
 
-        * Telnet.exe clients can connect to a server chat room on port 5555 and start chatting with other users
+        * Telnet.exe clients can connect to a chat room on port 5555 of the server and start chat with other users
 
         * Multi-threaded client/server chat system
 
