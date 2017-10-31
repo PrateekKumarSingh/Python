@@ -94,6 +94,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     3. Change label text dynamically
 
 * MINI PROJECT
+
     4. Calclator GUI (Using Tkinter module)
 
 ### Day 11
@@ -144,7 +145,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
         * Chat room admin can Kick user(s) out of chat room
 
         * Poke users in a chat room
-        
+
         * Ability to leave the chat room
 
 ## Folder/Files listing
