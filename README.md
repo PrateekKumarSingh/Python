@@ -130,6 +130,15 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 * Listen\Bind ports
 * Client\Server system using socket programming
 
+### Day 14
+* Mini Project
+    1. telnet.exe clients can connect to a server chat room on port 5555 and start chatting with other users
+    2. Multi-threaded client/server chat system
+    3. Broadcast [1-to-all] adnd private [1-to-1] messages
+    4. Chat room admin can Kick user(s) out of chat room
+    5. Poke users in a chat room
+    6. Ability to leave the chat room
+
 ## Folder/Files listing
 ```
 .Root
@@ -186,6 +195,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |       2_Guess_The_Number.py
 |       3_Hangman.py
 |       4_Calculator_GUI.py
+|       5_Chat_System_On_Socket_Programming.py
 |       readme.md
 |
 +---SampleFiles
