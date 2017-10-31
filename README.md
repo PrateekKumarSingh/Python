@@ -150,69 +150,77 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 
 ## Folder/Files listing
 ```
+
 .Root
-|   01_Print_Function.py
-|   02_Comment.py
-|   03_Math.py
-|   04_Variables.py
-|   05_While_Loop.py
-|   06_For_Loop.py
-|   07_If_Else.py
-|   08_Function.py
-|   09_Global_Local_Variable.py
-|   10_Install_Modules.py
-|   11_Import_modules.py
-|   12_Write_Append_Read_File.py
-|   13_Class.py
-|   14_User_Input.py
-|   15_Statistics_Module.py
-|   16_Tuples_List.py
-|   17_Using_WebBrowser.py
-|   18_MultiDimensional_List.py
-|   19_Reading_CSV.py
-|   20_Try_Except.py
-|   21_Multiline_print.py
-|   22_Dictionaries.py
-|   23_Builtin_Functions.py
-|   24_OS_Module.py
-|   25_SYS_Module.py
-|   26_URLLIB_Module_Basic.py
-|   27_URLLIB_Module_Custom_Headers.py
-|   28_URLLIB_Module_with_JSON.py
-|   29_Regular_Expressions.py
-|   30_List_Comprehensions.py
-|   31_String_Manipulations.py
-|   32_Parsing_Websites.py
-|   33_TKINTER_Module.py
-|   34_TKINTER_Add_Menu.py
-|   35_Threading_Module.py
-|   36_Threading_Advanced.py
-|   37_CX_Freeze_and_Making_Exes.py
-|   38_MatPlotLib_Module.py
-|   39_Sockets_Programming.py
-|   40_Multithreaded_Port_Scanner.py
-|   41_Listen_And_Bind_Ports.py
-|   42_Client_Server_Systems_With_Sockets.py
 |   README.md
-|
+|   
 +---.vscode
 |       launch.json
 |       tasks.json
-|
-+---MiniProjects
-|       1_Dice_Roll_Simulator.py
-|       2_Guess_The_Number.py
-|       3_Hangman.py
-|       4_Calculator_GUI.py
-|       5_Chat_System_On_Socket_Programming.py
-|       readme.md
-|
-+---SampleFiles
-|       coordinates1.csv
-|       coordinates2.csv
-|       example.csv
-|       GetHREF.py
-|       RequestWithHeader.txt   
-       
-        
+|       
++---Python Basics
+|   |   01_Print_Function.py
+|   |   02_Comment.py
+|   |   03_Math.py
+|   |   04_Variables.py
+|   |   05_While_Loop.py
+|   |   06_For_Loop.py
+|   |   07_If_Else.py
+|   |   08_Function.py
+|   |   09_Global_Local_Variable.py
+|   |   10_Install_Modules.py
+|   |   11_Import_modules.py
+|   |   12_Write_Append_Read_File.py
+|   |   13_Class.py
+|   |   14_User_Input.py
+|   |   15_Statistics_Module.py
+|   |   16_Tuples_List.py
+|   |   17_Using_WebBrowser.py
+|   |   18_MultiDimensional_List.py
+|   |   19_Reading_CSV.py
+|   |   20_Try_Except.py
+|   |   21_Multiline_print.py
+|   |   22_Dictionaries.py
+|   |   23_Builtin_Functions.py
+|   |   24_OS_Module.py
+|   |   25_SYS_Module.py
+|   |   26_URLLIB_Module_Basic.py
+|   |   27_URLLIB_Module_Custom_Headers.py
+|   |   28_URLLIB_Module_with_JSON.py
+|   |   29_Regular_Expressions.py
+|   |   30_List_Comprehensions.py
+|   |   31_String_Manipulations.py
+|   |   32_Parsing_Websites.py
+|   |   33_TKINTER_Module.py
+|   |   34_TKINTER_Add_Menu.py
+|   |   35_Threading_Module.py
+|   |   36_Threading_Advanced.py
+|   |   37_CX_Freeze_and_Making_Exes.py
+|   |   38_MatPlotLib_Module.py
+|   |   39_Sockets_Programming.py
+|   |   40_Multithreaded_Port_Scanner.py
+|   |   41_Listen_And_Bind_Ports.py
+|   |   42_Client_Server_Systems_With_Sockets.py
+|   |   
+|   +---MiniProjects
+|   |       1_Dice_Roll_Simulator.py
+|   |       2_Guess_The_Number.py
+|   |       3_Hangman.py
+|   |       4_Calculator_GUI.py
+|   |       5_Chat_System_On_Socket_Programming.py
+|   |       readme.md
+|   |       
+|   \---SampleFiles
+|           coordinates1.csv
+|           coordinates2.csv
+|           example.csv
+|           GetHREF.py
+|           picture.jpg
+|           RequestWithHeader.txt
+|           
++---Python Machine Learning
+|       01_Pandas_Module.py
+|       02_Sklearn_and_Quandl_module.py
+|       
+
 ```        
