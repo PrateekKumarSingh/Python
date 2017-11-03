@@ -148,7 +148,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 
         * Ability to leave the chat room
 
-### Day 15
+### Day 15 
 * Pandas module
     1. Convert dictionaries to Dataframes
     2. Slicing dataframes
@@ -157,6 +157,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     1. Get financial and economic datasets using Quandl
     2. Performing mathematical operations on dataframe columns
     3. Dataframe functions - .head() .tail() .shift() .fillna() dropna()
+### Day 16    
 * Train, test, predict data using Linear regression or Simple vector machine model
     1. Features vs labels
     2. Training and predicting using a model
