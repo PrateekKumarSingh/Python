@@ -135,17 +135,11 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 * Mini Project
 
     5. Chat System using Socket Programming
-
         * Telnet.exe clients can connect to a chat room on port 5555 of the server and start chat with other users
-
         * Multi-threaded client/server chat system
-
         * Broadcast [1-to-all] adnd private [1-to-1] messages
-
         * Chat room admin can Kick user(s) out of chat room
-
         * Poke users in a chat room
-
         * Ability to leave the chat room
 
 ### Day 15 
@@ -165,7 +159,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
         2. Define a classifier/model, like LinearRegression, SVM (Simple vector Machine) and then Train the classifier using .fit()
         3. Test accuracy of the classifier with respect to test data from step 1 [~20% of data]
         4. Predict -  Label = classifier.predict('Features')
-            [](.\SampleFiles\StockPrediction.png)
+            [](https://github.com/PrateekKumarSingh/Python/blob/master/Python%20Machine%20Learning/SampleFiles/StockPrediction.png)
 * Best fit line and how regression works
     1. What is slope(m) and intercept(b)
     2. Linear Regression = mX + b
