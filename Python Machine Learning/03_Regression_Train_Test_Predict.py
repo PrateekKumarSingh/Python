@@ -51,6 +51,10 @@ y = np.array(df['Label'])  # only selects the Label
 X_trainset, X_testset, y_trainset, y_testset = model_selection.train_test_split(X, y, test_size=0.2)
 
 # [2] define and train the clasifier with the training data
+# What is regression?
+#   Linear regression calculates an equation that minimizes the distance between the fitted line and all of the data points. 
+#   Technically, ordinary least squares (OLS) regression minimizes the sum of the squared residuals.
+
 clf = LinearRegression(n_jobs=-1) # define the classifier, support vector machine (SVM) or linear regression in this example
 
 # clf = svm.SVR() # https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html

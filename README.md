@@ -163,6 +163,13 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 * Best fit line and how regression works
     1. What is slope(m) and intercept(b)
     2. Linear Regression = mX + b
+
+### Day 17
+* What are Squared error?
+* Squared error vs Absolute errors
+* R-Squared / Coeffcient of determination
+* Classification with K-Nearest neighbor (KNN)
+
 ## Folder/Files listing
 ```
 
