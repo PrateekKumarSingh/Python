@@ -1,9 +1,5 @@
 from twitter import *
 
-consumer_key = '37HLDWddhRzyaWaE6RqnPtVJa'
-consumer_secret = 'lk5jXOB5CLbhC0q3e1wT4JJHivWrI61ucCNeZZyXvFxh2eOZko'
-token = '3148634719-pueS4ffeOJdcARm6ZJnah02jjInqjKVN3ExO84r'
-token_secret = 'QCp7tIEEY14aa6BmfbY4HADc0GiemENDCyfkmcsraqZXu'
 
 t = Twitter(auth=OAuth(token, token_secret, consumer_key, consumer_secret))
 # fetches your timline
