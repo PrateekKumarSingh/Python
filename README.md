@@ -170,6 +170,13 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 * R-Squared / Coeffcient of determination
 * Classification with K-Nearest neighbor (KNN)
 
+### Day 18
+* Euclidean distance
+    ![](https://github.com/PrateekKumarSingh/Python/blob/master/Python%20Machine%20Learning/SampleFiles/Euclidean_Distance.jpg)
+* Making your own k-NN (k-Nearest Neighbor) algorithm in python
+* Comparing the accuracy and confidence of your algorithm with SKLearn module's neighbors.KNeighborsClassifier()
+* Accuracy vs confidence in k-NN algorithm
+
 ## Folder/Files listing
 ```
 

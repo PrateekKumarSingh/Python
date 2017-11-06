@@ -1,3 +1,9 @@
+# K-Nearest Neighbours (k-NN) Algorithm:
+# --------------------------------------
+#   K-Nearest Neighbours is one of the most basic yet essential classification algorithms in Machine Learning. 
+#   It belongs to the supervised learning domain and finds intense application in pattern recognition, 
+#   data mining and intrusion detection.
+
 import numpy as np
 from sklearn import preprocessing, model_selection , neighbors
 import pandas as pd
@@ -17,8 +23,7 @@ clf.fit(X_train,y_train) # train the classifier
 accuracy = clf.score(X_test,y_test) # test the trained classifier against the test data
 print('Accuracy:',accuracy)
 
-example_measures = np.array([[4, 2, 1, 1, 1, 2, 3, 2, 1],
-                            [4, 3, 1, 2, 1, 2, 1, 2, 4]])
+example_measures = np.array([[4, 2, 1, 1, 1, 2, 3, 2, 1],[4, 3, 1, 2, 1, 2, 1, 2, 4]]) # data to classify/predict
 example_measures = example_measures.reshape(len(example_measures),-1)
 
 pridiction = clf.predict(example_measures)
