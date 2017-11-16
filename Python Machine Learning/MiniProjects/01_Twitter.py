@@ -1,17 +1,21 @@
 from twitter import *
 
+consumer_key = '37HLDWddhRzyaWaE6RqnPtVJa'
+consumer_secret = 'lk5jXOB5CLbhC0q3e1wT4JJHivWrI61ucCNeZZyXvFxh2eOZko'
+token = '3148634719-pueS4ffeOJdcARm6ZJnah02jjInqjKVN3ExO84r'
+token_secret = 'QCp7tIEEY14aa6BmfbY4HADc0GiemENDCyfkmcsraqZXu'
 
 t = Twitter(auth=OAuth(token, token_secret, consumer_key, consumer_secret))
 # fetches your timline
 #data = t.statuses.home_timeline() 
 
 data = t.search.tweets(q='#powershell')
-print(t.items())
+#print(t.items())
 
 #print(data)
 for status in data['statuses']:
     print('screen_name',status['user']['screen_name'])
-    print('text',status['text'])
+    #print('text',status['text'])
     #print('description',status['user']['description'])
     #print('profile_image_url',status['user']['profile_image_url'])
     #print('location',status['user']['location'])
