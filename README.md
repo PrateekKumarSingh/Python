@@ -178,9 +178,19 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 * Comparing the accuracy and confidence of your algorithm with SKLearn module's neighbors.KNeighborsClassifier()
 * Accuracy vs confidence in k-NN algorithm
 
+### Day 19
+* SKLearn Support Vector Machine (SVM) classifier
+* Making your own Support Vector Machine (SVM) algorithm in python [Courtesy: ![Harrison](https://pythonprogramming.net) ] 
+
+### Day 20    
+* Browser Automation using Selenium web driver with Python
+* Python Web Scraping
+    1. Using URLLib module and Regular expressions
+    2. Using Beautiful Soup module   
+
+
 ## Folder/Files listing
 ```
-
 .Root
 |   README.md
 |   
@@ -231,6 +241,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   |   40_Multithreaded_Port_Scanner.py
 |   |   41_Listen_And_Bind_Ports.py
 |   |   42_Client_Server_Systems_With_Sockets.py
+|   |   debug.log
 |   |   
 |   +---MiniProjects
 |   |       1_Dice_Roll_Simulator.py
@@ -239,6 +250,9 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   |       4_Calculator_GUI.py
 |   |       5_Chat_System_On_Socket_Programming.py
 |   |       readme.md
+|   |       
+|   +---Resources
+|   |       Python_3_Tips.jpg
 |   |       
 |   \---SampleFiles
 |           coordinates1.csv
@@ -253,9 +267,32 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   |   02_Sklearn_and_Quandl_module.py
 |   |   03_Regression_Train_Test_Predict.py
 |   |   04_Best_Fit_Line_and_Regression.py
-|   |
+|   |   05_Classification_with_SKLEARN_K_Nearest_Neighbor_Algorithm.py
+|   |   06_KNN_Algorithm_using_Python.py
+|   |   07_Test_Accuracy_of_kNN_Classifier_on_Cancer_Data.py
+|   |   08_Classification_with_SKLEARN_Support_Vector_Machine_Algorithm.py
+|   |   09_Creating_a_SVM_from_scratch.py
+|   |   
+|   +---MiniProjects
+|   |       01_Twitter.py
+|   |       
+|   +---Resources
+|   |       Basic_Algebra.pdf
+|   |       Python_For_DataScience.jpg_large
+|   |       R_and_Python_DataScience.jpg
+|   |       
 |   \---SampleFiles
+|           breast-cancer-wisconsin.txt
+|           Euclidean_Distance.jpg
+|           Intro to Regression.pdf
 |           linearregression.pickle
+|           StockPrediction.png
+|           
++---Python Selenium
+|       01_Selenium_With_Python.py
 |       
++---Python Web Scraping
+|       01_Using_URLLIB_and_REGEX.py
+|       02_Using_Beautiful_Soup.py
 
-```        
+```

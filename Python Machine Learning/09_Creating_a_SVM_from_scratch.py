@@ -87,7 +87,9 @@ class Support_Vector_Machine:
             self.w = opt_choice[0]
             self.b = opt_choice[1]
             latest_optimum = opt_choice[0][0]+step*2
-            
+
+        # the support vectors    
+        print('Support vectors')
         for i in self.data:
             for xi in self.data[i]:
                 yi=i
