@@ -188,6 +188,14 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
     1. Using URLLib module and Regular expressions
     2. Using Beautiful Soup module   
 
+### Day 21
+* Soft Marging Support vector machines, kernels and CVXOPT
+* SKLearn KMeans() classifier and clustering data sets
+
+### Day 22
+* Applying SKLearn KMeans classifier on Titanic data set to see if it can classify survivors and deads accurately
+* Making your own custom K_Means() classifier algorithm in python
+* Applying custom K_Means() algorithm on Titanic data set
 
 ## Folder/Files listing
 ```

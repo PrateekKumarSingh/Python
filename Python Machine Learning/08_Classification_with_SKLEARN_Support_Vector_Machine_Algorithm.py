@@ -8,7 +8,7 @@ df.drop(['id'], 1, inplace=True)
 
 X = np.array(df.drop(['class'],1)) # select all 'features', i.e excluding the label=class
 y = np.array(df['class']) # select the label
-
+                                   
 X_train, X_test, y_train, y_test = model_selection.train_test_split(X,y,test_size=0.2)
 
 clf = svm.SVC() # define the classifier
