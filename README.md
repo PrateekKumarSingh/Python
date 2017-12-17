@@ -280,6 +280,11 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |   |   07_Test_Accuracy_of_kNN_Classifier_on_Cancer_Data.py
 |   |   08_Classification_with_SKLEARN_Support_Vector_Machine_Algorithm.py
 |   |   09_Creating_a_SVM_from_scratch.py
+|   |   10_Soft_Margin_SVM_and_Kernels_with_CVXOPT.py
+|   |   11_Clustering_DataSets_with_KMeans_Algorithm.py
+|   |   12_KMeans_on_Titanic_DataSet.py
+|   |   13_Creating_KMeans_from_scratch.py
+|   |   14_Custom_KMeans_Algorithm_on_Titanic_dataset.py
 |   |   
 |   +---MiniProjects
 |   |       01_Twitter.py
@@ -295,6 +300,7 @@ Python quick reference cards [[Link](http://www.cs.put.poznan.pl/csobaniec/softw
 |           Intro to Regression.pdf
 |           linearregression.pickle
 |           StockPrediction.png
+|           titanic.xls
 |           
 +---Python Selenium
 |       01_Selenium_With_Python.py
