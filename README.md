@@ -2,8 +2,10 @@
 My [day-wise] Python Learning journey
 
 ## Resources
-Python 3 basics video series 
-* https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+Python 3 Learning
+* [Video] [Basics concepts](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+* [Video] [Machine Learning](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+* [Link] [Selenium:Browser Automation](http://selenium-python.readthedocs.io/)
 
 Python language reference 
 * https://docs.python.org/3/reference/
