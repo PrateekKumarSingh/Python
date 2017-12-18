@@ -3,17 +3,17 @@ My [day-wise] Python Learning journey
 
 ## Resources
 Python 3 basics video series 
-* [[Video](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)] 
+* [](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 Python language reference 
-* [[Link](https://docs.python.org/3/reference/)]  
+* [](https://docs.python.org/3/reference/)
 
 Python cheat sheets 
-* [[Link](https://github.com/PrateekKumarSingh/CheatSheets)]  
-* [[Link](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)]
+* [](https://github.com/PrateekKumarSingh/CheatSheets)
+* [](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 Python quick reference cards 
-* [[Link](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)]  
+* [(http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html)
 
 ## Daily Log
 ### Day 1
