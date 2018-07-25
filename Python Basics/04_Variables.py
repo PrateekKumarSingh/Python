@@ -13,6 +13,8 @@ x,y = 3,5 # can assign multitple variable and values at once, Value on RIGHT unp
 print("x = ",x)
 print("y = ",y)
 
+arr = [1,2,3,4,5,6]
+print(arr.__iter__())
 
 
 
