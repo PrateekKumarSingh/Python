@@ -11,5 +11,7 @@ import mod
 #p.ylabel('Numbers')
 #p.show()
 
-
+array = [1,2,3,4]
+shuffle(array)
+print('shuffled array:', array)
 mod.testfunction('Eeewwww!')

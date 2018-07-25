@@ -7,6 +7,8 @@ for item in array:
 # for loop with a range function
 for x in range(1,10):
     print('Number',x)
+for x in range(1,10):
+    print('Number',x)
 
 # for loop with a range function and Range step = 2
 for y in range(1,10,2):

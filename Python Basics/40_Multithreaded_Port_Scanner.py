@@ -4,7 +4,7 @@ import socket
 import time
 
 printlock = threading.Lock()  # perform a thread lock
-server = 'geekeefy.wordpress.com'
+server = 'ftp.ridicurious.com'
 
 # The actual job that is multi-threaded
 def scanport(port):

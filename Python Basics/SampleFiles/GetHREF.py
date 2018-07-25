@@ -22,5 +22,10 @@ def parseURL(url):
     #    savefile.write(link+'\n')      
     #    savefile.close()
 
-parseURL(sys.argv[1])
+#parseURL(sys.argv[1])
 #print(paragraph[0:4]) # print first 4 paragraphs
+
+print(ord('x'))
+
+
+ord
