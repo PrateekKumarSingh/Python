@@ -20,7 +20,7 @@ while True:
     basic_condition = input("Would you like to play Monopoly? {YES/NO}")
     if basic_condition == "Yes".capitalize:
         print("Lets GO!")
-        print('''Dice 1 : {0} Dice 2 : {1}  '''.format(dice1)
+        print('''Dice 1 : {0} Dice 2 : {1}  '''.format(dice1)(dice2)
     elif basic_condition == "no".capitalize :
     print('Bye')
     sys.exit()
