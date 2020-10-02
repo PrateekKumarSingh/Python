@@ -24,5 +24,6 @@ while True:
     elif basic_condition == "no".capitalize :
     print('Bye')
     sys.exit()
+              
     else:
         print("Invalid Command! RESTART THE GAME!")
