@@ -9,6 +9,7 @@ Python 3 Learning
 
 Python language reference 
 * https://docs.python.org/3/reference/
+* https://www.scaler.com/topics/python/
 
 Python cheat sheets 
 * https://github.com/PrateekKumarSingh/CheatSheets
